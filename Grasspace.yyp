@@ -43,6 +43,7 @@
     {"id":{"name":"CourseGauche","path":"sprites/CourseGauche/CourseGauche.yy",},},
     {"id":{"name":"spr_colision","path":"sprites/spr_colision/spr_colision.yy",},},
     {"id":{"name":"spr_map_tileset","path":"sprites/spr_map_tileset/spr_map_tileset.yy",},},
+    {"id":{"name":"spr_personnage","path":"sprites/spr_personnage/spr_personnage.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],

@@ -23,6 +23,7 @@
     {"name":"CourseDroite","order":3,"path":"sprites/CourseDroite/CourseDroite.yy",},
     {"name":"CourseGauche","order":4,"path":"sprites/CourseGauche/CourseGauche.yy",},
     {"name":"spr_colision","order":2,"path":"sprites/spr_colision/spr_colision.yy",},
+    {"name":"spr_personnage","order":7,"path":"sprites/spr_personnage/spr_personnage.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
   ],
 }
