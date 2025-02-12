@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"CourseDevant",
-    "path":"sprites/CourseDevant/CourseDevant.yy",
+    "name":"spr_personnage",
+    "path":"sprites/spr_personnage/spr_personnage.yy",
   },
   "spriteMaskId":null,
   "visible":true,
