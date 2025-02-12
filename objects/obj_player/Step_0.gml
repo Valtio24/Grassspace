@@ -1,3 +1,5 @@
+// Quand le playre ne bouge pas 
+
 hps=0
 
 if keyboard_check(vk_up){
@@ -28,6 +30,20 @@ if keyboard_check(vk_left){
 	}
 	
 }
+
+
+
+// quand le player bouge
+if keyboard_check(vk_right) or keyboard_check(vk_right) or keyboard_check(vk_right) or keyboard_check(vk_right){
+	reserv_eau -= 1/60;
+	reserv_lum -= 1/60;
+	
+
+
+
+}
+
+
 if(hps==0){sprite_index= spr_personnage}
 if(hps==1){sprite_index= CourseDevant}
 if(hps==2){sprite_index= CourseArriere}
