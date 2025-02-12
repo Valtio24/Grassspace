@@ -54,8 +54,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"vaisseauSpatial","path":"rooms/vaisseauSpatial/vaisseauSpatial.yy",},},
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"roomId":{"name":"vaisseauSpatial","path":"rooms/vaisseauSpatial/vaisseauSpatial.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
