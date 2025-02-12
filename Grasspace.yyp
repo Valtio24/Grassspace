@@ -36,7 +36,7 @@
   "resources":[
     {"id":{"name":"obj_colision","path":"objects/obj_colision/obj_colision.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"vaisseauSpatial","path":"rooms/vaisseauSpatial/vaisseauSpatial.yy",},},
     {"id":{"name":"CourseArriere","path":"sprites/CourseArriere/CourseArriere.yy",},},
     {"id":{"name":"CourseDevant","path":"sprites/CourseDevant/CourseDevant.yy",},},
     {"id":{"name":"CourseDroite","path":"sprites/CourseDroite/CourseDroite.yy",},},
@@ -49,7 +49,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"vaisseauSpatial","path":"rooms/vaisseauSpatial/vaisseauSpatial.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
