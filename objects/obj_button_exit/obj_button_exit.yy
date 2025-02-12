@@ -33,7 +33,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"btn_quit",
+    "path":"sprites/btn_quit/btn_quit.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
