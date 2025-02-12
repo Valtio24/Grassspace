@@ -17,7 +17,6 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_colision","order":2,"path":"objects/obj_colision/obj_colision.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"CourseArriere","order":6,"path":"sprites/CourseArriere/CourseArriere.yy",},
     {"name":"CourseDevant","order":5,"path":"sprites/CourseDevant/CourseDevant.yy",},
