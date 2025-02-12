@@ -34,8 +34,10 @@
   },
   "name":"Grasspace",
   "resources":[
+    {"id":{"name":"obj_colision","path":"objects/obj_colision/obj_colision.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_colision","path":"sprites/spr_colision/spr_colision.yy",},},
     {"id":{"name":"spr_map_tileset","path":"sprites/spr_map_tileset/spr_map_tileset.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
