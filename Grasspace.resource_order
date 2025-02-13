@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+
     {"name":"obj_plante","order":1,"path":"objects/obj_plante/obj_plante.yy",},
     {"name":"btn_play","order":12,"path":"sprites/btn_play/btn_play.yy",},
     {"name":"btn_play2","order":6,"path":"sprites/btn_play2/btn_play2.yy",},
@@ -20,5 +21,11 @@
     {"name":"spr_title","order":11,"path":"sprites/spr_title/spr_title.yy",},
     {"name":"spr_title2","order":10,"path":"sprites/spr_title2/spr_title2.yy",},
     {"name":"spr_win","order":8,"path":"sprites/spr_win/spr_win.yy",},
+
+    {"name":"obj_sourceEau","order":1,"path":"objects/obj_sourceEau/obj_sourceEau.yy",},
+    {"name":"obj_sourceElectricite","order":2,"path":"objects/obj_sourceElectricite/obj_sourceElectricite.yy",},
+    {"name":"spr_fontaineaEau","order":1,"path":"sprites/spr_fontaineaEau/spr_fontaineaEau.yy",},
+    {"name":"spr_generateurElectrique","order":2,"path":"sprites/spr_generateurElectrique/spr_generateurElectrique.yy",},
+
   ],
 }

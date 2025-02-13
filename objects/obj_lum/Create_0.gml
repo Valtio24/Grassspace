@@ -15,3 +15,4 @@ enum lum_state{
 }
 
 state = lum_state.dix
+remplissage_temps = 0

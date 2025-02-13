@@ -43,6 +43,8 @@
     {"id":{"name":"obj_lum","path":"objects/obj_lum/obj_lum.yy",},},
     {"id":{"name":"obj_plante","path":"objects/obj_plante/obj_plante.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_sourceEau","path":"objects/obj_sourceEau/obj_sourceEau.yy",},},
+    {"id":{"name":"obj_sourceElectricite","path":"objects/obj_sourceElectricite/obj_sourceElectricite.yy",},},
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"id":{"name":"roomFinDeJeu","path":"rooms/roomFinDeJeu/roomFinDeJeu.yy",},},
@@ -59,6 +61,10 @@
     {"id":{"name":"spr_CourseDevant","path":"sprites/spr_CourseDevant/spr_CourseDevant.yy",},},
     {"id":{"name":"spr_CourseDroite","path":"sprites/spr_CourseDroite/spr_CourseDroite.yy",},},
     {"id":{"name":"spr_CourseGauche","path":"sprites/spr_CourseGauche/spr_CourseGauche.yy",},},
+
+    {"id":{"name":"spr_fontaineaEau","path":"sprites/spr_fontaineaEau/spr_fontaineaEau.yy",},},
+    {"id":{"name":"spr_generateurElectrique","path":"sprites/spr_generateurElectrique/spr_generateurElectrique.yy",},},
+
     {"id":{"name":"spr_loose","path":"sprites/spr_loose/spr_loose.yy",},},
     {"id":{"name":"spr_map_tileset","path":"sprites/spr_map_tileset/spr_map_tileset.yy",},},
     {"id":{"name":"spr_personnage","path":"sprites/spr_personnage/spr_personnage.yy",},},
