@@ -44,6 +44,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"id":{"name":"roomFinDeJeu","path":"rooms/roomFinDeJeu/roomFinDeJeu.yy",},},
     {"id":{"name":"vaisseauSpatial","path":"rooms/vaisseauSpatial/vaisseauSpatial.yy",},},
     {"id":{"name":"snd_musiqueEnJeu","path":"sounds/snd_musiqueEnJeu/snd_musiqueEnJeu.yy",},},
     {"id":{"name":"btn_play","path":"sprites/btn_play/btn_play.yy",},},
@@ -51,7 +52,10 @@
     {"id":{"name":"btn_quit","path":"sprites/btn_quit/btn_quit.yy",},},
     {"id":{"name":"btn_quit2","path":"sprites/btn_quit2/btn_quit2.yy",},},
     {"id":{"name":"spr_background_menu","path":"sprites/spr_background_menu/spr_background_menu.yy",},},
+    {"id":{"name":"spr_cadre","path":"sprites/spr_cadre/spr_cadre.yy",},},
     {"id":{"name":"spr_colision","path":"sprites/spr_colision/spr_colision.yy",},},
+
+    {"id":{"name":"spr_loose","path":"sprites/spr_loose/spr_loose.yy",},},
     {"id":{"name":"spr_CourseArriere","path":"sprites/spr_CourseArriere/spr_CourseArriere.yy",},},
     {"id":{"name":"spr_CourseDevant","path":"sprites/spr_CourseDevant/spr_CourseDevant.yy",},},
     {"id":{"name":"spr_CourseDroite","path":"sprites/spr_CourseDroite/spr_CourseDroite.yy",},},
@@ -60,6 +64,8 @@
     {"id":{"name":"spr_personnage","path":"sprites/spr_personnage/spr_personnage.yy",},},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},},
     {"id":{"name":"spr_title2","path":"sprites/spr_title2/spr_title2.yy",},},
+
+    {"id":{"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
@@ -67,6 +73,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"roomId":{"name":"vaisseauSpatial","path":"rooms/vaisseauSpatial/vaisseauSpatial.yy",},},
+    {"roomId":{"name":"roomFinDeJeu","path":"rooms/roomFinDeJeu/roomFinDeJeu.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
