@@ -22,6 +22,7 @@
     {"name":"obj_button_play","order":2,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"obj_initialisation","order":5,"path":"objects/obj_initialisation/obj_initialisation.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_timer","order":6,"path":"objects/obj_timer/obj_timer.yy",},
     {"name":"menu","order":1,"path":"rooms/menu/menu.yy",},
     {"name":"btn_play","order":9,"path":"sprites/btn_play/btn_play.yy",},
     {"name":"btn_play2","order":11,"path":"sprites/btn_play2/btn_play2.yy",},
@@ -39,9 +40,6 @@
     {"name":"Sprite12","order":16,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"Sprite16","order":17,"path":"sprites/Sprite16/Sprite16.yy",},
     {"name":"Sprite17","order":18,"path":"sprites/Sprite17/Sprite17.yy",},
-    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
-    {"name":"Sprite20","order":2,"path":"sprites/Sprite20/Sprite20.yy",},
     {"name":"Sprite21","order":1,"path":"sprites/Sprite21/Sprite21.yy",},
-    {"name":"TileSet2","order":3,"path":"tilesets/TileSet2/TileSet2.yy",},
   ],
 }
