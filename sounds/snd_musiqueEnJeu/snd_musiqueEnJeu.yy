@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1800.048,
+  "duration":597.144,
   "name":"snd_musiqueEnJeu",
   "parent":{
     "name":"Sounds",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_musiqueEnJeu.mp3",
   "type":0,
-  "volume":0.86,
+  "volume":1.0,
 }
