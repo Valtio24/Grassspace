@@ -42,8 +42,8 @@ if (keyboard_check(vk_up) or keyboard_check(vk_down) or keyboard_check(vk_right)
 
 
 if(hps==0){sprite_index= spr_personnage}
-if(hps==1){sprite_index= CourseDevant}
-if(hps==2){sprite_index= CourseArriere}
-if(hps==3){sprite_index= CourseDroite}
-if(hps==4){sprite_index= CourseGauche}
+if(hps==1){sprite_index= spr_CourseDevant}
+if(hps==2){sprite_index= spr_CourseArriere}
+if(hps==3){sprite_index= spr_CourseDroite}
+if(hps==4){sprite_index= spr_CourseGauche}
 
