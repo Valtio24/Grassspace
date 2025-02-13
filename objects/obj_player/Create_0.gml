@@ -1,4 +1,3 @@
-reserv_eau = 100
-reserv_lum = 100
+plante = 6
 hps = 0
 

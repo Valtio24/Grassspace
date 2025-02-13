@@ -1,0 +1,1 @@
+draw_text(obj_player.x,obj_player.y, "Eau : " + string(reserv_eau) + "%");
