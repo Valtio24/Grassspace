@@ -1,35 +1,8 @@
 // Quand le playre ne bouge pas 
 
-hps=0
+//sprite_index= spr_personnage
 
-if keyboard_check(vk_up){
-	hps = 1
-	if !place_meeting(x,y-2,obj_colision){
-	y-=2
-	}
-}
 
-if keyboard_check(vk_down){
-	hps = 2
-	if !place_meeting(x,y+2,obj_colision){
-	y+=2
-	}
-}
-
-if keyboard_check(vk_right){
-	hps = 3
-	if !place_meeting(x+2,y,obj_colision){
-	x+=2
-	}
-}
-
-if keyboard_check(vk_left){
-	hps = 4
-	if !place_meeting(x-2,y,obj_colision){
-	x-=2
-	}
-	
-}
 
 
 
@@ -41,9 +14,107 @@ if (keyboard_check(vk_up) or keyboard_check(vk_down) or keyboard_check(vk_right)
 }
 
 
-if(hps==0){sprite_index= spr_personnage}
-if(hps==1){sprite_index= spr_CourseDevant}
-if(hps==2){sprite_index= spr_CourseArriere}
-if(hps==3){sprite_index= spr_CourseDroite}
-if(hps==4){sprite_index= spr_CourseGauche}
+
+
+
+// etat du player
+
+
+switch(state){
+	case run_state.statique:
+	sprite_index= spr_personnage
+		if keyboard_check(vk_left){
+			state = run_state.gauche
+		}
+		if keyboard_check(vk_up){
+			state = run_state.haut
+		}
+		if keyboard_check(vk_down){
+			state = run_state.bas
+		}
+		if keyboard_check(vk_right){
+			state = run_state.droite
+		}
+		
+	case run_state.gauche:
+	sprite_index= spr_CourseGauche
+		if !place_meeting(x-2,y,obj_colision){
+			x-=2
+		}
+		if keyboard_check(vk_up){
+			state = run_state.haut
+		}
+		if keyboard_check(vk_down){
+			state = run_state.bas
+		}
+		if keyboard_check(vk_right){
+			state = run_state.droite
+		}
+		else{
+			state = run_state.statique
+		}
+	case run_state.droite:
+	sprite_index= spr_CourseDroite
+	if !place_meeting(x+2,y,obj_colision){
+	x+=2
+	}
+		if keyboard_check(vk_up){
+			state = run_state.haut
+		}
+		if keyboard_check(vk_down){
+			state = run_state.bas
+		}
+		if keyboard_check(vk_left){
+			state = run_state.gauche
+		}
+		else{
+			state = run_state.statique
+		}
+	case run_state.haut:
+	sprite_index= spr_CourseDevant
+	if !place_meeting(x,y-2,obj_colision){
+	y-=2
+	}
+	
+		if keyboard_check(vk_up){
+			state = run_state.haut
+		}
+		if keyboard_check(vk_down){
+			state = run_state.bas
+		}
+		if keyboard_check(vk_right){
+			state = run_state.droite
+		}
+		else{
+			state = run_state.statique
+		}
+	case run_state.bas:
+	sprite_index= spr_CourseArriere
+	if !place_meeting(x,y+2,obj_colision){
+	y+=2
+	}
+		if keyboard_check(vk_up){
+			state = run_state.haut
+		}
+		if keyboard_check(vk_left){
+			state = run_state.gauche
+		}
+		if keyboard_check(vk_right){
+			state = run_state.droite
+		}
+		else{
+			state = run_state.statique
+		}
+}
+	
+		
+
+
+
+
+
+
+
+
+
 
