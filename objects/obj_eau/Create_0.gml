@@ -16,3 +16,4 @@ enum eau_state{
 
 
 state = eau_state.dix
+remplissage_temps = 0
