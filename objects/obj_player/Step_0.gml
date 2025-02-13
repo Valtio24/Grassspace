@@ -34,13 +34,10 @@ if keyboard_check(vk_left){
 
 
 // quand le player bouge
-if keyboard_check(vk_right) or keyboard_check(vk_right) or keyboard_check(vk_right) or keyboard_check(vk_right){
-	reserv_eau -= 1/60;
-	reserv_lum -= 1/60;
-	
-
-
-
+if (keyboard_check(vk_up) or keyboard_check(vk_down) or keyboard_check(vk_right) or keyboard_check(vk_left)) {
+    camera_set_view_pos(view_camera[0], x - 320 * 0.5, y - 240 * 0.5);
+    obj_eau.reserv_eau -= 1 / 60;
+    obj_lum.reserv_lum -= 1 / 60;
 }
 
 
@@ -49,10 +46,4 @@ if(hps==1){sprite_index= CourseDevant}
 if(hps==2){sprite_index= CourseArriere}
 if(hps==3){sprite_index= CourseDroite}
 if(hps==4){sprite_index= CourseGauche}
-
-camera_set_view_pos(view_camera[0],x-320*0.5,y-240*0.5)
-
-
-
-
 

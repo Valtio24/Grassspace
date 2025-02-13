@@ -1,0 +1,1 @@
+draw_text(room_width / 1.56, 900, "Eau : " + string(reserv_eau) + "%");
