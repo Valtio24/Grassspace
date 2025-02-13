@@ -24,6 +24,7 @@
     {"name":"obj_initialisation","order":5,"path":"objects/obj_initialisation/obj_initialisation.yy",},
     {"name":"obj_lum","order":7,"path":"objects/obj_lum/obj_lum.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_timer","order":6,"path":"objects/obj_timer/obj_timer.yy",},
     {"name":"menu","order":1,"path":"rooms/menu/menu.yy",},
     {"name":"btn_play","order":9,"path":"sprites/btn_play/btn_play.yy",},
     {"name":"btn_play2","order":11,"path":"sprites/btn_play2/btn_play2.yy",},
