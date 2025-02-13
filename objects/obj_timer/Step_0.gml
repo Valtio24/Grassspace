@@ -1,7 +1,7 @@
 timer -= 1; 
 
 if timer <= 0 {
-    game_end();
+    room_goto(roomFinDeJeu); 
 }
 
 
