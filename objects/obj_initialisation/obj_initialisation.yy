@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_parent",
+  "%Name":"obj_initialisation",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_parent",
+  "name":"obj_initialisation",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"btn_play",
-    "path":"sprites/btn_play/btn_play.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

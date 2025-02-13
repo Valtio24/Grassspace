@@ -1,1 +1,1 @@
-if pressed room_goto(menu);
+if pressed room_goto(vaisseauSpatial);
