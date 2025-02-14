@@ -5,6 +5,8 @@ if (keyboard_check(vk_up) or keyboard_check(vk_down) or keyboard_check(vk_right)
     camera_set_view_pos(view_camera[0], x - 320 * 0.5, y - 240 * 0.5);
     obj_eau.reserv_eau -= 1 / 60;
     obj_lum.reserv_lum -= 1 / 60;
+	event_perform_object(obj_plante, ev_other, 0)
+	event_perform_object(obj_plante, ev_other, 1)
 	
 }
 
@@ -12,7 +14,7 @@ if (keyboard_check(vk_up) or keyboard_check(vk_down) or keyboard_check(vk_right)
 switch (state) {
     
     case run_state.statique:
-	
+
         sprite_index = spr_personnage;
         if (keyboard_check(vk_left))  state = run_state.gauche;
         if (keyboard_check(vk_up))    state = run_state.haut;
