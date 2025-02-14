@@ -1,1 +1,1 @@
- sprite_index = spr_personnage;
+sprite_index = spr_personnage;
