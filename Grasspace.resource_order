@@ -1,12 +1,36 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+
     {"name":"obj_camera","order":4,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_menuEnJeu","order":3,"path":"objects/obj_menuEnJeu/obj_menuEnJeu.yy",},
     {"name":"obj_sourceEau","order":1,"path":"objects/obj_sourceEau/obj_sourceEau.yy",},
     {"name":"obj_sourceElectricite","order":2,"path":"objects/obj_sourceElectricite/obj_sourceElectricite.yy",},
     {"name":"spr_cadreMenu","order":3,"path":"sprites/spr_cadreMenu/spr_cadreMenu.yy",},
+
+    {"name":"obj_plante","order":1,"path":"objects/obj_plante/obj_plante.yy",},
+    {"name":"obj_sourceEau","order":1,"path":"objects/obj_sourceEau/obj_sourceEau.yy",},
+    {"name":"obj_sourceElectricite","order":2,"path":"objects/obj_sourceElectricite/obj_sourceElectricite.yy",},
+    {"name":"btn_play","order":12,"path":"sprites/btn_play/btn_play.yy",},
+    {"name":"btn_play2","order":6,"path":"sprites/btn_play2/btn_play2.yy",},
+    {"name":"btn_quit","order":7,"path":"sprites/btn_quit/btn_quit.yy",},
+    {"name":"spr_background_menu","order":15,"path":"sprites/spr_background_menu/spr_background_menu.yy",},
+    {"name":"spr_cadre","order":16,"path":"sprites/spr_cadre/spr_cadre.yy",},
+    {"name":"spr_colision","order":14,"path":"sprites/spr_colision/spr_colision.yy",},
+    {"name":"spr_CourseArriere","order":2,"path":"sprites/spr_CourseArriere/spr_CourseArriere.yy",},
+    {"name":"spr_CourseDevant","order":3,"path":"sprites/spr_CourseDevant/spr_CourseDevant.yy",},
+    {"name":"spr_CourseDroite","order":13,"path":"sprites/spr_CourseDroite/spr_CourseDroite.yy",},
+    {"name":"spr_CourseGauche","order":5,"path":"sprites/spr_CourseGauche/spr_CourseGauche.yy",},
+
     {"name":"spr_fontaineaEau","order":1,"path":"sprites/spr_fontaineaEau/spr_fontaineaEau.yy",},
     {"name":"spr_generateurElectrique","order":2,"path":"sprites/spr_generateurElectrique/spr_generateurElectrique.yy",},
+    {"name":"spr_loose","order":4,"path":"sprites/spr_loose/spr_loose.yy",},
+    {"name":"spr_map_tileset","order":1,"path":"sprites/spr_map_tileset/spr_map_tileset.yy",},
+    {"name":"spr_personnage","order":9,"path":"sprites/spr_personnage/spr_personnage.yy",},
+    {"name":"spr_plante_morte","order":18,"path":"sprites/spr_plante_morte/spr_plante_morte.yy",},
+    {"name":"spr_plante_vivante","order":17,"path":"sprites/spr_plante_vivante/spr_plante_vivante.yy",},
+    {"name":"spr_title","order":11,"path":"sprites/spr_title/spr_title.yy",},
+    {"name":"spr_title2","order":10,"path":"sprites/spr_title2/spr_title2.yy",},
+    {"name":"spr_win","order":8,"path":"sprites/spr_win/spr_win.yy",},
   ],
 }

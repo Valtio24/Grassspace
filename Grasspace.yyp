@@ -43,6 +43,9 @@
     {"id":{"name":"obj_initialisation","path":"objects/obj_initialisation/obj_initialisation.yy",},},
     {"id":{"name":"obj_lum","path":"objects/obj_lum/obj_lum.yy",},},
     {"id":{"name":"obj_menuEnJeu","path":"objects/obj_menuEnJeu/obj_menuEnJeu.yy",},},
+
+    {"id":{"name":"obj_plante","path":"objects/obj_plante/obj_plante.yy",},},
+
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_sourceEau","path":"objects/obj_sourceEau/obj_sourceEau.yy",},},
     {"id":{"name":"obj_sourceElectricite","path":"objects/obj_sourceElectricite/obj_sourceElectricite.yy",},},
@@ -68,6 +71,8 @@
     {"id":{"name":"spr_loose","path":"sprites/spr_loose/spr_loose.yy",},},
     {"id":{"name":"spr_map_tileset","path":"sprites/spr_map_tileset/spr_map_tileset.yy",},},
     {"id":{"name":"spr_personnage","path":"sprites/spr_personnage/spr_personnage.yy",},},
+    {"id":{"name":"spr_plante_morte","path":"sprites/spr_plante_morte/spr_plante_morte.yy",},},
+    {"id":{"name":"spr_plante_vivante","path":"sprites/spr_plante_vivante/spr_plante_vivante.yy",},},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},},
     {"id":{"name":"spr_title2","path":"sprites/spr_title2/spr_title2.yy",},},
     {"id":{"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},},
