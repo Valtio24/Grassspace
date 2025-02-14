@@ -3,5 +3,6 @@
   "ResourceOrderSettings":[
     {"name":"obj_statePlayer","order":1,"path":"objects/obj_statePlayer/obj_statePlayer.yy",},
     {"name":"roomEndGameDefaite","order":1,"path":"rooms/roomEndGameDefaite/roomEndGameDefaite.yy",},
+    {"name":"snd_boutonExit","order":1,"path":"sounds/snd_boutonExit/snd_boutonExit.yy",},
   ],
 }
