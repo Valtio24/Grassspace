@@ -37,11 +37,15 @@
     {"id":{"name":"obj_button_exit","path":"objects/obj_button_exit/obj_button_exit.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_colision","path":"objects/obj_colision/obj_colision.yy",},},
     {"id":{"name":"obj_eau","path":"objects/obj_eau/obj_eau.yy",},},
     {"id":{"name":"obj_initialisation","path":"objects/obj_initialisation/obj_initialisation.yy",},},
     {"id":{"name":"obj_lum","path":"objects/obj_lum/obj_lum.yy",},},
+    {"id":{"name":"obj_menuEnJeu","path":"objects/obj_menuEnJeu/obj_menuEnJeu.yy",},},
+
     {"id":{"name":"obj_plante","path":"objects/obj_plante/obj_plante.yy",},},
+
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_sourceEau","path":"objects/obj_sourceEau/obj_sourceEau.yy",},},
     {"id":{"name":"obj_sourceElectricite","path":"objects/obj_sourceElectricite/obj_sourceElectricite.yy",},},
@@ -56,6 +60,7 @@
     {"id":{"name":"btn_quit2","path":"sprites/btn_quit2/btn_quit2.yy",},},
     {"id":{"name":"spr_background_menu","path":"sprites/spr_background_menu/spr_background_menu.yy",},},
     {"id":{"name":"spr_cadre","path":"sprites/spr_cadre/spr_cadre.yy",},},
+    {"id":{"name":"spr_cadreMenu","path":"sprites/spr_cadreMenu/spr_cadreMenu.yy",},},
     {"id":{"name":"spr_colision","path":"sprites/spr_colision/spr_colision.yy",},},
     {"id":{"name":"spr_CourseArriere","path":"sprites/spr_CourseArriere/spr_CourseArriere.yy",},},
     {"id":{"name":"spr_CourseDevant","path":"sprites/spr_CourseDevant/spr_CourseDevant.yy",},},
