@@ -1,11 +1,12 @@
 switch (state) {
     
     case run_state.statique:
-		event_user(10);
+		
         if (keyboard_check(vk_left))  state = run_state.gauche;
         if (keyboard_check(vk_up))    state = run_state.haut;
         if (keyboard_check(vk_down))  state = run_state.bas;
         if (keyboard_check(vk_right)) state = run_state.droite;
+		event_user(10);
         break; 
 
     case run_state.gauche:
@@ -31,6 +32,11 @@ switch (state) {
         if (!keyboard_check(vk_down)) state = run_state.statique; 
         break;
 }
+
+
+
+
+
 
 
 
