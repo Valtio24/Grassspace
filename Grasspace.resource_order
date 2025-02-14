@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_statePlayer","order":1,"path":"objects/obj_statePlayer/obj_statePlayer.yy",},
+  ],
 }
