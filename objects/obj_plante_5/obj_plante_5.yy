@@ -1,21 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_plante",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_plante_5",
+  "eventList":[],
   "managed":true,
-  "name":"obj_plante",
+  "name":"obj_plante_5",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_statePlayer",
-    "path":"objects/obj_statePlayer/obj_statePlayer.yy",
+    "name":"obj_plante",
+    "path":"objects/obj_plante/obj_plante.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -39,5 +35,5 @@
     "path":"sprites/spr_plante_vivante/spr_plante_vivante.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

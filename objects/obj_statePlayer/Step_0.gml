@@ -31,3 +31,6 @@ switch (state) {
         if (!keyboard_check(vk_down)) state = run_state.statique; 
         break;
 }
+
+
+
