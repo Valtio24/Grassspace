@@ -1,7 +1,8 @@
 timer -= 1; 
 
 if timer <= 0 {
-    room_goto(roomFinDeJeu); 
+	audio_stop_sound(snd_musiqueEnJeu);
+    room_goto(roomEndGameVictoire); 
 }
 
 
