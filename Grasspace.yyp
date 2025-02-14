@@ -52,6 +52,7 @@
     {"id":{"name":"roomEndGameDefaite","path":"rooms/roomEndGameDefaite/roomEndGameDefaite.yy",},},
     {"id":{"name":"roomEndGameVictoire","path":"rooms/roomEndGameVictoire/roomEndGameVictoire.yy",},},
     {"id":{"name":"vaisseauSpatial","path":"rooms/vaisseauSpatial/vaisseauSpatial.yy",},},
+    {"id":{"name":"snd_boutonExit","path":"sounds/snd_boutonExit/snd_boutonExit.yy",},},
     {"id":{"name":"snd_musiqueEnJeu","path":"sounds/snd_musiqueEnJeu/snd_musiqueEnJeu.yy",},},
     {"id":{"name":"btn_play","path":"sprites/btn_play/btn_play.yy",},},
     {"id":{"name":"btn_play2","path":"sprites/btn_play2/btn_play2.yy",},},

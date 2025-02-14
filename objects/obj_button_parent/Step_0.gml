@@ -1,3 +1,4 @@
+
 switch(state){
 	case b_state.create:
 		image_xscale += 0.05;
