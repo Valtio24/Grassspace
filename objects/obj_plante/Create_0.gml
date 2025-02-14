@@ -8,4 +8,4 @@ enum plt_state{
 }
 
 sprite_index=spr_plante_vivante
-state = plt_state.vivante
+plante_state = plt_state.vivante

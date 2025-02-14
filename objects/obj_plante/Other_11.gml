@@ -1,1 +1,0 @@
-plt_lumiere -= 3 / 60;
