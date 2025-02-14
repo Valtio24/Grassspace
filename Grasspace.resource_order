@@ -1,6 +1,12 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_plante_1","order":7,"path":"objects/obj_plante_1/obj_plante_1.yy",},
+    {"name":"obj_plante_2","order":2,"path":"objects/obj_plante_2/obj_plante_2.yy",},
+    {"name":"obj_plante_3","order":3,"path":"objects/obj_plante_3/obj_plante_3.yy",},
+    {"name":"obj_plante_4","order":4,"path":"objects/obj_plante_4/obj_plante_4.yy",},
+    {"name":"obj_plante_5","order":5,"path":"objects/obj_plante_5/obj_plante_5.yy",},
+    {"name":"obj_plante_6","order":6,"path":"objects/obj_plante_6/obj_plante_6.yy",},
     {"name":"obj_statePlayer","order":1,"path":"objects/obj_statePlayer/obj_statePlayer.yy",},
     {"name":"roomEndGameDefaite","order":1,"path":"rooms/roomEndGameDefaite/roomEndGameDefaite.yy",},
     {"name":"snd_boutonExit","order":1,"path":"sounds/snd_boutonExit/snd_boutonExit.yy",},
