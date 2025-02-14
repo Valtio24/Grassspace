@@ -1,8 +1,11 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_camera","order":4,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_menuEnJeu","order":3,"path":"objects/obj_menuEnJeu/obj_menuEnJeu.yy",},
     {"name":"obj_sourceEau","order":1,"path":"objects/obj_sourceEau/obj_sourceEau.yy",},
     {"name":"obj_sourceElectricite","order":2,"path":"objects/obj_sourceElectricite/obj_sourceElectricite.yy",},
+    {"name":"spr_cadreMenu","order":3,"path":"sprites/spr_cadreMenu/spr_cadreMenu.yy",},
     {"name":"spr_fontaineaEau","order":1,"path":"sprites/spr_fontaineaEau/spr_fontaineaEau.yy",},
     {"name":"spr_generateurElectrique","order":2,"path":"sprites/spr_generateurElectrique/spr_generateurElectrique.yy",},
   ],
