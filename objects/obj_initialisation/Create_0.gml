@@ -17,6 +17,6 @@ show_debug_message("obj_timer créé avec ID : " + string(inst.id));
 
 
 instance_create_layer(_x,_y-100,"Pickups",obj_button_play);
-instance_create_layer(_x,_y +100, "Pickups",obj_button_quit);
+instance_create_layer(_x,_y +100, "Pickups",obj_button_exit);
 instance_create_layer(50, 50, "GUI", obj_timer);
 
